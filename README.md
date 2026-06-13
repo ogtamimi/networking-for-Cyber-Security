@@ -58,3 +58,10 @@ All course materials are cleanly organized in the [`Chapters/`](./Chapters/ "nul
 If you already have a basic IT background, feel free to treat this repository as a reference manual and jump straight into the later chapters to review specific protocols and their associated attacks.
 
 
+## Contributing
+
+We welcome contributions from the community! If you want to improve this project, fix mistakes, or add new ideas, please check the contribution guidelines.
+
+Read the full guide here: [CONTRIBUTING.md](./CONTRIBUTING.md)
+
+All contributions are appreciated and help improve this cybersecurity learning resource.
