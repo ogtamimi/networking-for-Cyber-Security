@@ -1,4 +1,4 @@
-![alt text](Assets/banner.png)
+![alt text](Assets/animated_banner.gif)
 
 <p align="center">
     <strong style="font-size: 2rem; background: linear-gradient(120deg, #0f172a, #2d3a5e); background-clip: text; -webkit-background-clip: text; color: transparent;">Networking for Cyber Security</strong><br>
@@ -14,13 +14,18 @@ Welcome to the **Networking for Cyber Security** guide!
 
 This repository contains a comprehensive, zero-to-hero, 8-chapter learning path designed specifically for aspiring and current cybersecurity professionals. Whether your goal is to become a Penetration Tester, a SOC Analyst, or a Cloud Security Engineer, this curriculum strips away the fluff and focuses purely on the networking concepts, protocols, and architectures that actually matter in the real world of infosec.
 
-### What You Will Learn
-
-- **Architecture:** How packets physically and logically travel across the globe.
-- **Frameworks:** Practical mapping of the OSI and TCP/IP models.
-- **Core Protocols:** TCP, UDP, IP, DNS, HTTP/S, and the 13 critical ports.
-- **Threat Landscapes:** Real-world attacks tied to network layers (e.g., SYN Floods, DHCP Starvation, DNS Poisoning, DDoS).
-- **The Big Picture:** Tracing a full packet journey from a URL to a rendered web page, highlighting the attack surface at every step.
+## 📚 WHAT YOU'LL LEARN:
+- ✅ How networks actually work  from cables to cloud
+- ✅ The OSI Model  all 7 layers explained visually
+- ✅ The TCP/IP Model  what the internet actually runs on
+- ✅ IPv4 vs IPv6  addressing, exhaustion, and dual-stack risks
+- ✅ Public vs Private IPs  NAT, subnetting, and CIDR notation
+- ✅ Ports and Protocols  the 13 critical ports every security pro knows
+- ✅ DNS  how poisoning, spoofing, and tunnelling attacks work
+- ✅ HTTP vs HTTPS  why plaintext traffic is a security disaster
+- ✅ TCP vs UDP  the 3-way handshake, SYN floods, and amplification DDoS
+- ✅ The full journey: URL → DNS → IP → TCP → TLS → HTTP → server → response
+- ✅ The attack surface at EVERY step  and how defenders stop each one
 
 ## Course Modules
 
@@ -50,11 +55,4 @@ All course materials are cleanly organized in the [`Chapters/`](./Chapters/ "nul
 
 If you already have a basic IT background, feel free to treat this repository as a reference manual and jump straight into the later chapters to review specific protocols and their associated attacks.
 
-## Contributing
-We believe in community-driven learning! Found a typo, or have a brilliant idea to make a chapter better? Contributions are actively welcomed.
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/awesome-addition`).
-3. Make your changes to the relevant `.md` file.
-4. Commit your changes (`git commit -m 'Add detailed section on VLAN Hopping to Chapter 8'`).
-5. Push to the branch (`git push origin feature/awesome-addition`).
-6. Open a **Pull Request**.
+
