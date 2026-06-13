@@ -1,4 +1,6 @@
-![alt text](Assets/animated_banner.gif)
+<p align="center">
+  <img src="Assets/animated_banner2.gif" alt="banner" />
+</p>
 
 <p align="center">
     <strong style="font-size: 2rem; background: linear-gradient(120deg, #0f172a, #2d3a5e); background-clip: text; -webkit-background-clip: text; color: transparent;">Networking for Cyber Security</strong><br>
